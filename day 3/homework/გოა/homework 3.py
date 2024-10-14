@@ -61,3 +61,40 @@ left (45)
 forward (130)
 left (45)
 forward (50)
+left(45)
+forward (400)
+left (90)
+forward (90)
+left (90)
+forward (120)
+right (90)
+forward (40)
+right (90)
+forward (120)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
